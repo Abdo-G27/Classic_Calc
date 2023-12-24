@@ -11,7 +11,11 @@ body{
     border-radius: 10px;
     border: 5px solid rgb(109, 109, 109);
     margin: auto;
-    margin-top: 50px;
+    margin-top: 100px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
    
 }
 .calculator *{
@@ -21,7 +25,7 @@ body{
     
 }
 .row1 input{
-    width: 87%;
+    width: 89%;
     height: 50px;
     margin-top: 40px;
     background-color: rgb(0, 102, 22);
@@ -29,14 +33,15 @@ body{
     outline-width: 0;
     border-radius: 5px;
     font-size: 32px;
-    padding: 0px 0px 0px 5px;
+    padding-left: 10px;
+    padding-right: 10px;
     
 }
 .row2 button{
     width: 75px;
     height: 50px;
     margin-top: 25px;
-    background-color: rgb(188, 206, 122);
+    background-color: rgb(179, 185, 157);
     font-weight: bold;
     border-radius: 5px;
     font-size: large;
@@ -53,7 +58,7 @@ body{
 .row3 button{
     width: 75px;
     height: 50px;
-    background-color: rgb(188, 206, 122);
+    background-color: rgb(179, 185, 157);
     font-weight: bold;
     border-radius: 5px;
     font-size: large;
@@ -62,7 +67,7 @@ body{
 .row4 button{
     width: 75px;
     height: 50px;
-    background-color: rgb(188, 206, 122);
+    background-color: rgb(179, 185, 157);
     font-weight: bold;
     border-radius: 5px;
     font-size: large;
@@ -71,7 +76,7 @@ body{
 .row5 button{
     width: 75px;
     height: 50px;
-    background-color: rgb(188, 206, 122);
+    background-color: rgb(179, 185, 157);
     font-weight: bold;
     border-radius: 5px;
     font-size: large;
@@ -80,7 +85,7 @@ body{
 .row6 button{
     width: 75px;
     height: 50px;
-    background-color: rgb(188, 206, 122);
+    background-color: rgb(179, 185, 157);
     font-weight: bold;
     border-radius: 5px;
     font-size: large;
